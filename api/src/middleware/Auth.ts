@@ -1,0 +1,1 @@
+// Classe responsável por lidar com a autenticação
